@@ -6,9 +6,6 @@ import './MoviesGrid.css'
 
 const moviesURL = import.meta.env.VITE_API;
 const apiKey = import.meta.env.VITE_API_KEY;
-console.log(moviesURL);
-console.log(apiKey);
-
 
 const Home = () => {
   const [topMovies, setTopMovies] = useState([]);
