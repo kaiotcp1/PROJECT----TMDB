@@ -13,7 +13,7 @@ const Home = () => {
   const getTopRatedMovies = async (url) => {
     const res = await fetch(url);
     const data = await res.json();  // transformando em objeto javascript
-
+console.log(data)
     setTopMovies(data.results);
   };
 

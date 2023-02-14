@@ -8,7 +8,7 @@ import {
   BsFillFileEarmarkTextFill,
 } from 'react-icons/bs'
 
-import './MoviesGrid.css'
+import './Movie.css'
 import MovieCard from '../components/MovieCard'
 
 const moviesURL = import.meta.env.VITE_API;
@@ -26,7 +26,7 @@ const Movie = () => {
   }
 
   useEffect(() => {
-    const movieURL = `${moviesURL}${id}?${apiKey}`;
+    const movieURL = `${moviesURL}${id}?${apiKey}&language=pt-BR`;
     getMovie(movieURL);
   }, [])
 

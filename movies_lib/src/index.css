@@ -6,16 +6,17 @@
 }
 
 body {
-    background-image: linear-gradient( 90deg,  rgba(26,33,64,1) 50%, rgb(24, 25, 34) 100% );
-    color: white;
+    background-image: linear-gradient( 90deg,  rgb(8, 10, 19) 50%, rgb(24, 25, 34) 100% );
+    color: rgb(53, 52, 138);
 }
 
 a {
     text-decoration: none;
     color: rgb(26 33 64);
-    transition: 0.5s;
+    transition: 1s;
 }
 
+
 a:hover {
- color: rgb(253, 253, 253);
+ color:#1C6EA4;
 }
