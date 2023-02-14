@@ -7,7 +7,6 @@ import { useState } from 'react';
 import './Navbar.css'
 
 const Navbar = () => {
-
   const [search, setSearch] = useState("");
   const navigate = useNavigate();
 
