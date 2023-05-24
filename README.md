@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Essa aplicação consiste em consumiar API do TMBD utilizando React. Criada no curso de React pelo
+Essa aplicação consiste em consumir API do TMBD utilizando React. Criada no curso de React pelo
 [Matheus Battisti](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/ "Curso udemy")
 focado em unir todo o conhecimento obtido até aquele momento do curso e adicionar novos conhecimentos.
 
