@@ -8,7 +8,7 @@ Essa aplicação consiste em consumir API do TMBD utilizando React. Criada no cu
 [Matheus Battisti](https://www.udemy.com/course/react-do-zero-a-maestria-c-hooks-router-api-projetos/ "Curso udemy")
 focado em unir todo o conhecimento obtido até aquele momento do curso e adicionar novos conhecimentos.
 
-A aplicação consiste no consumo de APi, onde usuário possa buscar por seus filmes e verificar informações relevantes desses filmes.
+A aplicação consta no consumo de API, onde usuário possa buscar por seus filmes e verificar informações relevantes desses filmes.
 aplicação utiliza de:<br><br>
 Fetch; <br>
 React icons;<br>
@@ -22,6 +22,7 @@ busca;
 
 ## Preview
 -----------
+![image](https://github.com/kaiotcp1/tmdb-project/assets/31595749/6740ccbf-484e-4734-9f16-e3d9427b3d88)
 
 
 
