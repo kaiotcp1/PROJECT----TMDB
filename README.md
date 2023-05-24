@@ -1,4 +1,4 @@
-# Mini Blog
+# TMDB
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/kaiotcp1/mini_blog/blob/main/license) 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bd465bd8-89d0-4d45-b1cc-8c6fc10a234e/deploy-status)](https://app.netlify.com/sites/tmdb-kaio/deploys)
 
